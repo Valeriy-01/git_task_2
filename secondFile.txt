@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 10aaaaaaaaaaaaaaaaaaa
 9ssssssssssssssssssss
+=======
+10qqqqqqqqqqqqqqqq
+9wwwwwwwwwwwwwwwww
+>>>>>>> git_2
 8
 7
 6
